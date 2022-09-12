@@ -23,6 +23,7 @@ GEM
     database_cleaner-core (2.0.1)
     diff-lcs (1.4.4)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x86-mingw32)
     ffi (1.15.3)
     i18n (1.8.10)
       concurrent-ruby (~> 1.0)
@@ -87,6 +88,7 @@ GEM
 
 PLATFORMS
   universal-darwin-20
+  x86-mingw32
   x86_64-darwin-19
 
 DEPENDENCIES
